@@ -61,10 +61,15 @@ print(f"Predicted value:{pre}")
 
 ## Output:
 ![Screenshot 2024-03-15 123753](https://github.com/Ajay-Joshua-M/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/160995404/2c62ae96-ed8a-45f4-8d94-b4b8fb2a203b)
+
 ![image](https://github.com/Ajay-Joshua-M/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/160995404/d4dde488-b2ad-4133-9b8e-708ceaf8457b)
+
 ![image](https://github.com/Ajay-Joshua-M/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/160995404/db3b1a48-b157-4a90-bde9-9262d1ab62d2)
+
 ![image](https://github.com/Ajay-Joshua-M/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/160995404/7386cfb8-285d-4dc8-a3e4-ccd5be4de16b)
+
 ![image](https://github.com/Ajay-Joshua-M/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/160995404/91ec5761-3a30-4b10-93f0-72813db09b82)
+
 ![image](https://github.com/Ajay-Joshua-M/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/160995404/28c11e18-dc14-48a7-bd27-34b01f7c41de)
 
 
